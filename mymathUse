@@ -1,0 +1,7 @@
+import mymath as mm
+
+print(mm.sqrt(5))
+
+print(mm.factoriel(6))
+
+print(mm.power(6,8))
